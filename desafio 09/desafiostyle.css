@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+
+    
+    
+}
+header{
+    color: aliceblue;
+    align-items: center;
+    padding: 20px 5%;
+    height: 100px;    
+    text-align: center;
+    background-color: black;
+    
+}
+.content{
+    justify-content: center;
+    height: cal(100vh-100px);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+}
+.content a{
+    color: aliceblue;
+    text-decoration: none;
+
+}
+
+
